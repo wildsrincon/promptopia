@@ -1,10 +1,9 @@
 import Prompt from "@models/prompt";
-import { connectToDatabase } from "@utils/database";
+import { connectToDB } from "@utils/database";
 
 export const GET = async (request, { params }) => {
   try {
-    await connectToDatabase();
-    console.log("fetch posts")
+    await connectToDB();
     const prompts = await Prompt.find({ creator: params.id })
       .populate("creator")
       .sort({ createdAt: -1 });
