@@ -2,7 +2,6 @@
 
 <h1 align="center">Promptopia</h1>
 <p align="center"> <img src = "https://i.imgur.com/lVdmm2f.png" /></p>
-<p>Promptopia website built using NextJs, ReactJs and Tailwind CSS with MongoDB, Express and NextAuth for authentication. This website shows different prompts added by users for different AI platforms like ChatGPT, Platform AI and others </p>
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -20,7 +19,8 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-React-1f425f.svg)](https://www.reactjs.org)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+Promptopia website built using NextJs, ReactJs and Tailwind CSS with MongoDB, Express and NextAuth for authentication. This website shows different prompts added by users for different AI platforms like ChatGPT, Platform AI and others 
 
 ## Steps for install project
 
