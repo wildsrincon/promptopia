@@ -2,7 +2,7 @@
 
 <h1 align="center">Promptopia</h1>
 <p align="center"> <img src = "https://i.imgur.com/lVdmm2f.png" /></p>
-<p></p>
+<p>Promptopia website built using NextJs, ReactJs and Tailwind CSS with MongoDB, Express and NextAuth for authentication. This website shows different prompts added by users for different AI platforms like ChatGPT, Platform AI and others </p>
 
 <!-- PROJECT SHIELDS -->
 <!--
