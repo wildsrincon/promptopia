@@ -68,9 +68,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
+To learn Next JS, check out the [Next documentation]([https://reactjs.org/](https://nextjs.org/docs)).
 
 ### Code Splitting
 
@@ -79,18 +78,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/co
 ### Analyzing the Bundle Size
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `yarn build` fails to minify
 
@@ -102,10 +89,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/wildsrincon/github-battle.svg?style=plastic&logo=github
-[contributors-url]: https://github.com/wildsrincon/github-battle/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/wildsrincon/github-battle.svg?style=plastic&logo=github
-[license-url]: https://github.com/wildsrincon/github-battle/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/wildsrincon/promptopia.svg?style=plastic&logo=github
+[contributors-url]: https://github.com/wildsrincon/promptopia/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/wildsrincon/promptopia.svg?style=plastic&logo=github
+[license-url]: https://github.com/wildsrincon/promptopia/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/wildsrincon
 [github-shield]: https://img.shields.io/badge/github/followers/:user?label=Follow
