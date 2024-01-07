@@ -1,4 +1,4 @@
-# Promptopia ::robot::
+# Promptopia :robot:
 
 <h1 align="center">Promptopia</h1>
 <p align="center"> <img src = "https://i.imgur.com/lVdmm2f.png" /></p>
